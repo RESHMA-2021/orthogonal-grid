@@ -1,1 +1,45 @@
+*{
+    background-color: bisque !important;
+}
+
+.topic {
+    
+    font-family: 'Righteous', cursive;
+    color: #ffffff;
+    font-size: 90px !important;
+    text-align: center;
+       
+}
+
+
+.buttons {
+
+    text-align: center;
+    
+}
+
+.btn {
+    font-size: 20px;
+    text-transform: capitalize;
+    font-family: 'Righteous', cursive;
+    letter-spacing: 5px;
+    padding: 10px 50px;
+    margin: 20px;
+    border-radius: 20px;
+    background-color: royalblue !important;     
+    
+}
+
+.space {
+    text-align: center;
+}
+
+canvas {
+    border: 10px solid #150a1f !important; 
+    
+}
+
+
+
+  
 
